@@ -1,1 +1,1 @@
-web gunicorn app:app_randomforestclassifier
+web gunicorn app_randomforestclassifier:app
