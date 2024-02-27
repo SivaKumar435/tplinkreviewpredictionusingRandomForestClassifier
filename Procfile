@@ -1,1 +1,1 @@
-web gunicorn app_randomforestclassifier:app
+web: pip3 install -r requirements.txt && python3 app_randomforestclassifier.py
