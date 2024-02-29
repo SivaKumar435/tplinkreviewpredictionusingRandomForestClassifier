@@ -12,3 +12,6 @@ requests-oauthlib
 scikit-learn
 scipy
 sklearn
+gevent
+greenlet
+psutil
